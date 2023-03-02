@@ -43,3 +43,4 @@ print(country)
 
 plt.bar(country, array)
 plt.show()
+
